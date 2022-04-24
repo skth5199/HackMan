@@ -5,6 +5,7 @@ This website was built using Python and the Django web framework. It offers the 
 1. Participant portal
   * login
   * hackathon challenges and instructions
+  * submission portal
   * cafeteria statistics 
 2. Judge portal
   * login
